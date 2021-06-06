@@ -1,5 +1,6 @@
 Heroku: https://immense-chamber-81302.herokuapp.com
 
+Existe imagene en assets: puppy.jpeg
 
 # Actividad Presencial I
 ## Autenticación Manual desde cero
